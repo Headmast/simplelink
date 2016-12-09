@@ -3,8 +3,8 @@
        "apps": [ ], 
        "details": [
            {
-               "appID": "72H8ZPD4X8.com.behindtechlines.UniversalLinksDemo",
-               "paths": [ "/authors","/authors/*/books", "/authors/*" ]
+               "appID": "B9639RHZFT.ru.surfstudio.okey",
+               "paths": [ "*" ]
            }
        ]
     }
