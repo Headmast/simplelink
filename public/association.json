@@ -3,9 +3,21 @@
        "apps": [ ], 
        "details": [
            {
-               "appID": "B9639RHZFT.ru.surfstudio.okey",
-               "paths": [ "*" ]
-           }
+                "appID": "DM4Y7WTZZ3.ru.surfstudio.okey",
+                "paths": ["/webapp/wcs/stores/servlet/redirectMobile.jsp"]
+            },
+            {
+                "appID": "B9639RHZFT.ru.surfstudio.okey",
+                "paths": ["/webapp/wcs/stores/servlet/redirectMobile.jsp"]
+            },
+            {
+                "appID": "F8Z59Y9S4V.ru.surf.okey",
+                "paths": ["/webapp/wcs/stores/servlet/redirectMobile.jsp"]
+            },
+            {
+                "appID": "NWYAZN9LPP.ru.surf.okey",
+                "paths": ["/webapp/wcs/stores/servlet/redirectMobile.jsp"]
+            }
        ]
     }
 }
